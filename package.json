@@ -1,0 +1,24 @@
+{
+  "name": "2009590",
+  "version": "1.0.0",
+  "description": "",
+  "main": "snippet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/snippets/2009590.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/snippets/2009590/issues"
+  },
+  "homepage": "https://gitlab.com/snippets/2009590#readme",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.20",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
